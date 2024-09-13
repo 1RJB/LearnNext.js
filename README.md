@@ -1,2 +1,2 @@
-# TheWorkout
-A Web Application To Track Your Workouts!
+# Learn Next.js
+Learning Next.js by doing!
